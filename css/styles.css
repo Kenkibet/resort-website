@@ -1,11 +1,19 @@
 h1 {
+<<<<<<< HEAD
   color: darkred;
+=======
+  color: blue;
+>>>>>>> blue_theme
   text-align: center;
 }
 h2 {
   font-style: italic;
   text-align: center;
+<<<<<<< HEAD
   color: darkred;
+=======
+  color: teal;
+>>>>>>> blue_theme
 }
 h3 {
   font-style: italic;
@@ -18,5 +26,9 @@ h4 {
   color: brown;
 }
 body {
+<<<<<<< HEAD
   background-color: red;
+=======
+  background-color: skyblue;
+>>>>>>> blue_theme
 }
